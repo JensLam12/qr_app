@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # qr_scanner
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# qr_app
+an app that scan qr codes linked with a web or ubication in google map
+>>>>>>> 4a859c9d710a6e8385e6d9b7aa52ffa08f0c062a
